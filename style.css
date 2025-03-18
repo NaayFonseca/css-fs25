@@ -1,0 +1,23 @@
+body{
+    background-color: #f0f0f0;
+    font-family: arial, san-serif;
+    text-align: center;
+}
+
+p{
+    font-size: 18px;
+    color: #666;
+
+    
+}
+h1 {
+    color: #333;
+}
+a{
+    display: block;
+    color: blue;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+
